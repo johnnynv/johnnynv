@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+### It's Johnny here
+### I'm interested in Java, R programming
+### I'm working on a personal project;an Eclipse plugin that smashes the hastle of understanding natural languages in source code
+### I love blueberries and kiwi
+### I'm excited to collaborating with you guys.
 <!--
 **johnnynv/johnnynv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
